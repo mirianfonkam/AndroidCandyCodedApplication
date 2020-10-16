@@ -26,7 +26,7 @@ public class InfoActivity extends AppCompatActivity {
     }
 
     // ***
-    // Task 2 - Launch the Google Maps Activity
+    // TODO -  Task 2 - Launch the Google Maps Activity
     // ***
 
     public void createMapIntent(View view) {
